@@ -1,0 +1,10 @@
+/* Navbar'ı ortalamak için */
+@media screen and (min-width: 1080px) {
+    .navbar.is-spaced {
+        padding: 1rem 10rem;
+    }
+}
+
+.w-9 {
+    width: 9rem;
+}
